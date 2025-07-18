@@ -1,0 +1,17 @@
+{
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/panen/input/page": "app/dashboard/panen/input/page.js",
+  "/dashboard/panen/laba-rugi/page": "app/dashboard/panen/laba-rugi/page.js",
+  "/dashboard/panen/statistik/page": "app/dashboard/panen/statistik/page.js",
+  "/dashboard/perencanaan/anggaran/page": "app/dashboard/perencanaan/anggaran/page.js",
+  "/dashboard/perencanaan/draft/page": "app/dashboard/perencanaan/draft/page.js",
+  "/dashboard/perencanaan/input/page": "app/dashboard/perencanaan/input/page.js",
+  "/dashboard/perencanaan/simpan/page": "app/dashboard/perencanaan/simpan/page.js",
+  "/dashboard/perencanaan/verifikasi/page": "app/dashboard/perencanaan/verifikasi/page.js",
+  "/dashboard/utama/datalahan/page": "app/dashboard/utama/datalahan/page.js",
+  "/dashboard/utama/datapetani/page": "app/dashboard/utama/datapetani/page.js",
+  "/dashboard/utama/datatanaman/page": "app/dashboard/utama/datatanaman/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/signup/page": "app/signup/page.js"
+}
